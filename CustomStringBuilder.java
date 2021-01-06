@@ -2,14 +2,14 @@
  * Data-Structures-In-Java
  * CustomStringBuilder.java
  */
-package com.deepak.data.structures.Strings;
+
 
 import java.util.Arrays;
 
 /**
  * Custom implementation of StringBuilder
  * 
- * @author Deepak
+
  */
 public class CustomStringBuilder {
 
