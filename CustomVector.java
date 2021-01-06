@@ -2,7 +2,7 @@
  * Data-Structures-In-Java
  * CustomVector.java
  */
-package com.deepak.data.structures.Vector;
+package com.sultana.data.structures.Vector;
 
 import java.util.Arrays;
 import java.util.Enumeration;
@@ -11,7 +11,7 @@ import java.util.NoSuchElementException;
 /**
  * Implementation of Vector
  * 
- * @author Deepak
+ * @author sultana
  */
 public class CustomVector<T> {
 
